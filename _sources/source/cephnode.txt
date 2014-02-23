@@ -19,7 +19,7 @@ Hardware
    :widths: 15,30,20,10
 
    "Motherboard", "Jetway NF9J-Q87"
-   "Case", "Silverstone Sugo SG05", "`Materiel.net <http://www.materiel.net/mini-boitier-pc/silverstone-sugo-sg05b-usb-3-0-edition-74221.html>`"
+   "Case", "Silverstone Sugo SG05", `Materiel.net <http://www.materiel.net/mini-boitier-pc/silverstone-sugo-sg05b-usb-3-0-edition-74221.html>`_
    "Case accessories", "Adaptateur 3,5 vers 2 x 2,5 - SDP08", "Materiel.net"
 
 
