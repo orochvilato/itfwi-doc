@@ -9,8 +9,8 @@ Welcome to itfwi-doc's documentation!
 .. toctree::
    :maxdepth: 2
 
-   includeme
-   cephnode
+   source/includeme
+   source/cephnode
 
 
 Indices and tables
