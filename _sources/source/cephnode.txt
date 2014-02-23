@@ -17,7 +17,7 @@ Hardware
 
 .. csv-table:: Hardware
    :header: "Element", "Item", "Supplier", "Price"
-   :widths: 10,20,15,5
+   :widths: 10,15,10,5
 
    "Motherboard", "Jetway NF9J-Q87"
    "Case", "Silverstone Sugo SG05", `Materiel.net <http://www.materiel.net/mini-boitier-pc/silverstone-sugo-sg05b-usb-3-0-edition-74221.html>`_,"118.99 €"
