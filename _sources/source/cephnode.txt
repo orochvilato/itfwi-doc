@@ -13,11 +13,11 @@ Prerequisites
 
 Hardware
 --------
-   `List of Intel vPro compatible processors` <http://ark.intel.com/search/advanced/?s=t&ProcessorGraphics=true&VProTechnology=true>
+   `List of Intel vPro compatible processors <http://ark.intel.com/search/advanced/?s=t&ProcessorGraphics=true&VProTechnology=true>`_
 
 .. csv-table:: Hardware
    :header: "Element", "Item", "Supplier", "Price"
-   :widths: 20,30,20,10
+   :widths: 10,20,15,5
 
    "Motherboard", "Jetway NF9J-Q87"
    "Case", "Silverstone Sugo SG05", `Materiel.net <http://www.materiel.net/mini-boitier-pc/silverstone-sugo-sg05b-usb-3-0-edition-74221.html>`_,"118.99 €"
