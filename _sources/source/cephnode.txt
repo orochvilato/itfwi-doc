@@ -25,4 +25,4 @@ Hardware
    "Processor", "Intel Core i7 4770S", `Materiel.net <http://www.materiel.net/processeur-socket-1150/intel-core-i7-4770s-89299.html>`_, "278.99 €"
    "Array SSD", "Samsung Serie 840 Pro - 512 Go", `Materiel.net <http://www.materiel.net/disque-ssd/samsung-serie-840-pro-512-go-83234.html>`_, "421.39 €"
    "OS SSD", "Crucial M500 - 120 Go - mSATA", `Materiel.net <http://www.materiel.net/disque-ssd/samsung-serie-840-pro-512-go-83234.html>`_, "73,90 €"
-
+   "10GbE Ethernet card","Intel Ethernet Converged Network Adapter X540-T1", `pc21.fr <http://www.pc21.fr/fiche/x540t1blk-intel-ethernet-converged-network-adapter-x540-t1-adaptateur-reseau-pci-express-2-1-x8-faible-encombrement-10gb-ethernet-i483262.html>`_, "301,39 €"
