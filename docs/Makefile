@@ -116,7 +116,7 @@ latexpdf:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(PDFBUILDDIR)/latex
 	@echo "Running LaTeX files through pdflatex..."
 	$(MAKE) -C $(PDFBUILDDIR)/latex all-pdf
-        cp $(PDFBUILDDIR)/latex/*.pdf $(PDF)
+	cp $(PDFBUILDDIR)/latex/*.pdf $(PDF)
 	@echo "pdflatex finished; see $(PDF)"
 
 latexpdfja:
@@ -178,3 +178,8 @@ pseudoxml:
 	$(SPHINXBUILD) -b pseudoxml $(ALLSPHINXOPTS) $(BUILDDIR)/pseudoxml
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
+
+buildandcommithtml: html latexpdf
+
+	cd $(BUILDDIR)/html; git add . ; git commit -m "rebuilt docs"; git push origin gh-pages
+
