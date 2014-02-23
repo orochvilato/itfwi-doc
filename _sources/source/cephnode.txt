@@ -22,7 +22,7 @@ Prerequisites
 Hardware
 --------
 
-.. csv-table : Hardware
+.. csv-table:: Hardware
    :header: "Element", "Item", "Supplier", "Price"
    :widths: 15,30,20,10
 
