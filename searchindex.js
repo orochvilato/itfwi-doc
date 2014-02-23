@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{content:0,index:0,modul:0,search:0,page:0},objtypes:{},objnames:{},filenames:["index","source/includeme"],titles:["Welcome to itfwi-doc&#8217;s documentation!","itfwi-doc"],objects:{},titleterms:{welcom:0,doc:[0,1],itfwi:[0,1],indic:0,tabl:0,document:0}})
