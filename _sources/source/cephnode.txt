@@ -6,7 +6,7 @@ Prerequisites
 
 - SSD Drives (Intel Solid-State Drive DC S3500 Series )
 - Mini-ITX
-- 10GbE Lan
+- 10GbE LAN
 - SATA3
 - iAMT remote monitoring
 
