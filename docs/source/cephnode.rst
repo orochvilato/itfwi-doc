@@ -1,6 +1,8 @@
 CEPH Node
 =========
 
+:pip:`Reference Guide <installing>`
+
 Prerequisites
 -------------
 
